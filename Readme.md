@@ -6,8 +6,11 @@ in the image, and to determine the number of fingers in the area.
 
 ### How to run:
 pip3 install sklearn
+
 pip3 install pandas
+
 pip3 install opencv-python
+
 pip3 install imutils
 
 ctrl-c to stop the program
