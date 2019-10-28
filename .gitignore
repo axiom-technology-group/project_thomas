@@ -1,1 +1,26 @@
-venv/*
+# Don't track content of these folders
+venv/
+data/
+keras-video-classification/
+data_set/
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Do not commiit the python check point & VSC setteing
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+.DS_Store
+.Python
+test_*
