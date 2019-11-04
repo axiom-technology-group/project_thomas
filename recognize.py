@@ -11,6 +11,7 @@ from sklearn.metrics import pairwise
 # global variables
 bg = None
 
+
 #--------------------------------------------------
 # To find the running average over the background
 #--------------------------------------------------
