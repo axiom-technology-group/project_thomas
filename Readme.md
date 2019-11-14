@@ -11,9 +11,11 @@ pip3 install pandas
 
 pip3 install opencv-python
 
+pip3 install opencv-contrib-python
+
 pip3 install imutils
 
-ctrl-c to stop the program
+Press q to stop recogonize
 
 ### How to use:
 Wait for 3 second, put up finger into the green box
