@@ -15,7 +15,11 @@ pip3 install opencv-contrib-python
 
 pip3 install imutils
 
-Press q to stop recogonize
+pip3 install flask
+
+python3 app.py : to start the server
+localhost:1234 --> The web url to see the page.
+^C to kill the proccess
 
 ### How to use:
 Wait for 3 second, put up finger into the green box
